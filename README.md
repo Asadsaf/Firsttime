@@ -1,2 +1,1 @@
-# Firsttime
-My first github repository
+Hello GIT!
